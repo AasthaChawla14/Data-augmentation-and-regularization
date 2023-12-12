@@ -1,4 +1,4 @@
-# Data-augmentation-and-regularization
+# Polynomial Regression with Regularization and Data Augmentation
 
 ![image](https://github.com/AasthaChawla14/Data-augmentation-and-regularization/assets/133168057/02697c2c-9dc4-416b-8ae5-3aaaf9efc1c4)
 We are interested in the performance of the mean square error of the holdout data as a function of and . One way to achieve this is to plot the contour of the mean square error of the holdout data as a function of and . Discuss the relationship between Elasticnet and L2, L1 regularization?
